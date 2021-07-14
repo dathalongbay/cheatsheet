@@ -104,4 +104,5 @@ http://blankapham.com/category/lap-trinh-web/magento-tutorial/
 https://kungfuphp.com/magento/huong-dan-cai-dat-magento-2.html   
 ## Laravel ajax todo
 https://www.parthpatel.net/laravel-ajax-crud-bootstrap-jquery/   
-
+## Laravel where
+https://www.parthpatel.net/laravel-multiple-where-and-or-and-conditions-example/
