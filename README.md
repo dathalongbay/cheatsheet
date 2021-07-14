@@ -15,5 +15,12 @@ https://devhints.io/mysql
 https://www.mysqltutorial.org/mysql-cheat-sheet.aspx    
 https://gist.github.com/bradtraversy/c831baaad44343cc945e76c2e30927b3              
 https://gist.github.com/hofmannsven/9164408     
-https://websitesetup.org/mysql-cheat-sheet/     
+https://websitesetup.org/mysql-cheat-sheet/   
+## Wordpress cheatsheet
+## Magento cheatsheet
+## Joomla cheatsheet
+## SQL cheatsheet
+## Elasticseatch cheatsheet
+## Centos cheatsheet
+https://cheatography.com/bromono/cheat-sheets/centos-cheat-sheet/
 
