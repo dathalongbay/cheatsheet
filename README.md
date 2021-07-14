@@ -132,3 +132,6 @@ https://www.tutsmake.com/category/node-js-tutorial/
 https://www.tutsmake.com/category/laravel-tutorial/
 ## All laravel 
 https://allaravel.com/category/laravel-co-ban   
+
+## Youtube tutorial
+https://www.youtube.com/c/Hi%E1%BA%BFuTutorialwithliveproject/playlists
