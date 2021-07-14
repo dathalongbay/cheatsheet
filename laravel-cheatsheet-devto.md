@@ -55,3 +55,35 @@ Schema::table('products', function (Blueprint $table) {
     $table->dropColumn('comment');
 });
 ```
+## Commons commands
+```
+// Database migration
+$ php artisan migrate
+
+// Data seed
+$ php artisan db:seed
+
+// Create table migration
+$ php artisan make:migration create_products_table
+
+// Create from model with migration, factory, resource controller
+$ php artisan make:model Product -all
+
+// Create a controller
+$ php artisan make:controller ProductsController
+
+// Update table migration
+$ php artisan make:migration add_date_to_blogposts_table
+
+// Rollback latest migration
+php artisan migrate:rollback
+
+// Rollback all migrations
+php artisan migrate:reset
+
+// Rollback all and re-migrate
+php artisan migrate:refresh
+
+// Rollback all, re-migrate and seed
+php artisan migrate:refresh --seed
+```
