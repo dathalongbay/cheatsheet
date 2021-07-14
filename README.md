@@ -130,4 +130,5 @@ https://www.tutsmake.com/mysql-interview-questions-and-answers/
 https://www.tutsmake.com/category/node-js-tutorial/
 ## Laravel tutorial 
 https://www.tutsmake.com/category/laravel-tutorial/
-
+## All laravel 
+https://allaravel.com/category/laravel-co-ban   
