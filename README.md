@@ -40,6 +40,8 @@ https://websitesetup.org/php-cheat-sheet/
 https://websitesetup.org/bootstrap-cheat-sheet/      
 ## Javascript cheatsheet
 https://websitesetup.org/javascript-cheat-sheet/  
+# Micro services
+https://www.nginx.com/blog/building-microservices-using-an-api-gateway/   
 
 
 
