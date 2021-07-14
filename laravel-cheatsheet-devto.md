@@ -376,3 +376,191 @@ request()->name //mike
 // Form data (or default value)
 request()->input('email', 'no@email.com')
 ```
+## Template
+```
+<!-- Route name -->
+<a href="{{ route('routeName.show', $id) }}">
+
+<!-- Template inheritance -->
+@yield('content')  <!-- layout.blade.php -->
+@extends('layout')
+@section('content') … @endsection
+
+<!-- Template include -->
+@include('view.name', ['name' => 'John'])
+
+<!-- Template variable -->
+{{ var_name }} 
+
+<!-- raw safe html variable --> 
+{ !! var_name !! }
+
+<!-- Interation -->
+@foreach ($items as $item)
+   {{ $item.name }}
+   @if($loop->last) 
+       $loop->index 
+   @endif
+@endforeach
+
+<!-- Conditional -->
+@if ($post->id === 1) 
+    'Post one' 
+@elseif ($post->id === 2)
+    'Post two!' 
+@else 
+    'Other' 
+@endif
+
+<!-- Form -->
+<form method="POST" action="{{ route('posts.store') }}">
+
+@method(‘PUT’)
+@csrf
+
+<!-- Request path match -->
+{{ request()->is('posts*') ? 'current page' : 'not current page' }} 
+
+<!-- Route exist? -->
+@if (Route::has('login'))
+
+<!-- Auth blade variable -->
+@auth 
+@endauth 
+@guest
+
+<!-- Current user -->
+{{ Auth::user()->name }}
+
+<!-- Validations errors -->
+@if ($errors->any())
+    <div class="alert alert-danger">
+        <ul>
+            @foreach ($errors->all() as $error)
+                <li>{{ $error }}</li>
+            @endforeach
+        </ul>
+    </div>
+@endif
+
+<!-- Check a specific attributes -->
+<input id="title" type="text" class="@error('title') is-invalid @enderror">
+
+<!-- Repopulate form with data from previous request -->
+{{ old('name') }}
+```
+## Database direct access no model
+```
+use Illuminate\Support\Facades\DB;
+$user = DB::table('users')->first();
+$users = DB::select('select name, email from users');
+DB::insert('insert into users (name, email, password) value(?, ?, ?)', ['rickavmaniac', 'ericchap@hey.com', 'coeurs40']);
+DB::update('update users set name = ? where id = 1', ['eric']);
+DB::delete('delete from users where id = 1');
+```
+## Helpers
+```
+// Display variable content and kill execution
+dd($products)
+
+// Create a Laravel collection from array.
+$collection = collect($array);
+
+// Sort by description ascending
+$ordered_collection = $collection->orderBy(‘description’);
+
+// Reset numbering value 
+$ordered_collection = $ordered_collection->values()->all();
+```
+## Flash & Session
+```
+// Flash (only next request)
+$request->session()->flash('status', 'Task was successful!');
+
+// Flash with redirect
+return redirect('/home')->with('success' => 'email sent!');
+
+// Set Session
+$request->session()->put('key', 'value');
+
+// Get session
+$value = session('key');
+If session: if ($request->session()->has('users'))
+
+// Delete session
+$request->session()->forget('key');
+
+// Display flash in template 
+@if (session('message')) {{ session('message') }} @endif
+```
+## HTTP Client
+```
+// Use package
+use Illuminate\Support\Facades\Http;
+
+//Http get
+$response = Http::get('www.thecat.com')
+$data = $response->json()
+
+// Http get with query
+$res = Http::get('www.thecat.com', ['param1', 'param2'])
+
+// Http post
+$res = Http::post('http://test.com', ['name' => 'Steve','role' => 'Admin']);
+
+// Bearer 
+$res = Http::withToken('123456789')->post('http://the.com', ['name' => 'Steve']);
+
+// Headers
+$res = Http::withHeaders(['type'=>'json'])->post('http://the.com', ['name' => 'Steve']);
+```
+## Storage (helper class to store files locally or in the cloud)
+```
+// Public config: Local storage/app/public
+Storage::disk('public')->exists('file.jpg')) 
+// S3 config: storage: Amazon cloud ex:
+Storage::disk('s3')->exists('file.jpg')) 
+
+// Make the Public config available from the web 
+php artisan storage:link
+
+// Get or put file in the storage folder
+use Illuminate\Support\Facades\Storage;
+Storage::disk('public')->put('example.txt', 'Contents');
+$contents = Storage::disk('public')->get('file.jpg'); 
+
+// Access files by generating a url
+$url = Storage::url('file.jpg');
+// or by direct path to public config
+<img src={{ asset('storage/image1.jpg') }}/>
+
+// Delete file
+Storage::delete('file.jpg');
+
+// Trigger download
+Storage::disk('public')->download('export.csv');
+```
+## Install a project from github
+```
+$ git clone {project http address} projectName
+$ cd projectName
+$ composer install
+$ cp .env.example .env
+$ php artisan key:generate
+$ php artisan migrate
+$ npm install
+```
+## Heroku deployment
+```
+// Install Heroku on local machine (macOs)
+$ brew tap heroku/brew && brew install heroku
+
+// Login to heroku (create account if none)
+$ heroku login
+
+// Create Procile 
+$ touch Procfile
+
+// Save in Profile
+web: vendor/bin/heroku-php-apache2 public/
+```
