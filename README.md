@@ -146,4 +146,8 @@ https://viblo.asia/p/kien-truc-he-thong-tren-laravel-phan-10-oOVlYydol8W
 https://github.com/laraviet?tab=repositories   
 ## Sử dụng Service Layer và Repository trong Laravel
 https://viblo.asia/p/su-dung-service-layer-va-repository-trong-laravel-bJzKmw4Dl9N  
+https://dev.to/jsf00/implement-crud-with-laravel-service-repository-pattern-1dkl    
+## Top package laravel 
+https://www.bacancytechnology.com/blog/top-10-laravel-packages-to-install-in-2020-part-1   
+
 
