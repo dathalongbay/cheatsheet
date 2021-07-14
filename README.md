@@ -67,8 +67,13 @@ https://simplecheatsheet.com/tag/crontab-cheat-sheet/
 
 ## Redis cheatsheet
 https://simplecheatsheet.com/tag/redis-cheat-sheet/
+
 ## Axios cheatsheet
 https://simplecheatsheet.com/tag/axios-cheat-sheet/ 
+
 ## VueX cheatsheet
 https://simplecheatsheet.com/tag/vuex-cheat-sheet/ 
+
+## MariaDB cheatsheet
+https://simplecheatsheet.com/tag/mariadb-cheat-sheet/
 
