@@ -64,3 +64,6 @@ https://simplecheatsheet.com/tag/git-cheat-sheet/
 ## Crontab cheatsheet
 https://simplecheatsheet.com/tag/crontab-cheat-sheet/   
 
+## Redis cheatsheet
+https://simplecheatsheet.com/tag/redis-cheat-sheet/
+
