@@ -6,7 +6,9 @@ https://github.com/dathalongbay/cheatsheet/blob/main/github-setup.md
 ## webcoban 
 https://webcoban.vn/mysql/tai-lieu-hoc-mysql    
 ## Output Laravel SQL query log
-https://viblo.asia/p/output-laravel-sql-query-log-4dbZN2VnZYM
+https://viblo.asia/p/output-laravel-sql-query-log-4dbZN2VnZYM    
+https://codebriefly.com/how-to-log-all-sql-queries-in-laravel/    
+https://codebriefly.com/how-to-log-all-sql-queries-in-laravel/   
 ## laravel cheatsheet dev.to
 https://github.com/dathalongbay/cheatsheet/blob/main/laravel-cheatsheet-devto.md
 ## laravel cheatsheet learninglaravel.net
@@ -86,3 +88,17 @@ https://simplecheatsheet.com/tag/mariadb-cheat-sheet/
 
 ## Apache cheatsheet
 https://simplecheatsheet.com/tag/apache-cheat-sheet/
+
+## Laravel 
+https://codebriefly.com/category/laravel/laravel-code-snippet/page/3/    
+https://codebriefly.com/how-to-handle-content-scraping-in-laravel/     
+https://codebriefly.com/laravel-logging-guzzle-requests-file/             
+## Hướng dẫn magento
+https://www.magetop.com/blog/cai-magento-2-4-tren-localhost-xampp/     
+https://www.youtube.com/watch?v=lVljbADx_mA     
+https://www.magetop.com/blog/vn/    
+https://vi-magento.com/category/lap-trinh-magento/   
+https://vi-magento.com/danh-sach-magento-2/   
+http://blankapham.com/category/lap-trinh-web/magento-tutorial/   
+https://kungfuphp.com/magento/huong-dan-cai-dat-magento-2.html   
+
