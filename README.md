@@ -50,6 +50,10 @@ https://websitesetup.org/javascript-cheat-sheet/
 https://www.nginx.com/blog/building-microservices-using-an-api-gateway/   
 ## Mongodb cheatsheet
 https://simplecheatsheet.com/tag/mongodb-cheat-sheet/          
+## NPM cheatsheet
+https://simplecheatsheet.com/tag/npm-cheat-sheet/   
+## Docket cheatsheet 
+https://simplecheatsheet.com/tag/docker-cheat-sheet/    
 
 
 
