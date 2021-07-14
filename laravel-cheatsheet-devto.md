@@ -87,3 +87,52 @@ php artisan migrate:refresh
 // Rollback all, re-migrate and seed
 php artisan migrate:refresh --seed
 ```
+## Models
+```
+// Model mass assignment list exclude attributes
+protected $guarded = []; // empty == All
+
+// Or list included attributes
+protected $fillable = ['name', 'email', 'password',];
+
+
+// One to Many relationship (posts with many comments)
+public function comments() 
+{
+    return $this->hasMany(Comment:class); 
+}
+
+// One to Many relationship (comments with one post) 
+public function post() 
+{                            
+    return $this->belongTo(Post::class); 
+}
+
+// One to one relationship (Author with one profile)
+public function profile() 
+{
+    return $this->hasOne(Profile::class); 
+}
+
+// One to one relationship (Profile with one Author) 
+public function author() 
+{                            
+    return $this->belongTo(Author::class); 
+}
+
+// Many to Many relationship
+// 3 tables (posts, tags and post_tag)
+// post_tag (post_id, tag_id)
+
+// in Tag model...
+public function posts()
+    {
+        return $this->belongsToMany(Post::class);
+    }
+
+// in Post model...
+public function tags()
+    {
+        return $this->belongsToMany(Tag::class);
+    }
+```
