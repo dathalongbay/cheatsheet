@@ -135,3 +135,15 @@ https://allaravel.com/category/laravel-co-ban
 
 ## Youtube tutorial
 https://www.youtube.com/c/Hi%E1%BA%BFuTutorialwithliveproject/playlists
+
+## Some tutotrial viblo laravel 
+https://viblo.asia/u/lechihuy 
+## Laravel log
+https://viblo.asia/p/cach-ghi-log-trong-ung-dung-laravel-1Je5Emam5nL    
+https://allaravel.com/blog/quan-ly-loi-va-ghi-log-trong-ung-dung-laravel   
+## Dev own package laravel
+https://viblo.asia/p/kien-truc-he-thong-tren-laravel-phan-10-oOVlYydol8W   
+https://github.com/laraviet?tab=repositories   
+## Sử dụng Service Layer và Repository trong Laravel
+https://viblo.asia/p/su-dung-service-layer-va-repository-trong-laravel-bJzKmw4Dl9N  
+
