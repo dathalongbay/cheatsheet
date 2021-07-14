@@ -117,4 +117,5 @@ https://www.tutsmake.com/mysql-interview-questions-and-answers/
 https://www.digistar.vn/5-mo-hinh-pho-bien-de-cai-dat-server-cho-ung-dung/
 ## Debug 
 https://www.tma.vn/Hoi-dap/Cam-nang-nghe-nghiep/Ki-thuat-debug-trong-viec-phat-trien-he-thong-nhung/16776   
-
+# 10 tip debug hiệu quả
+https://github.com/dathalongbay/cheatsheet/blob/main/Top%2010%20TIPs%20gi%C3%BAp%20Coder%20Debug%20hi%E1%BB%87u%20qu%E1%BA%A3%20v%C3%A0%20%C4%91%C6%A1n%20gi%E1%BA%A3n%20h%C6%A1n.pdf    
