@@ -28,8 +28,9 @@ https://www.joomlashack.com/blog/joomla/joomla-training-cheat-sheet/
 ## SQL cheatsheet
 https://websitesetup.org/sql-cheat-sheet/
 ## Elasticseatch cheatsheet
-## Centos cheatsheet
+## Centos Linux cheatsheet
 https://cheatography.com/bromono/cheat-sheets/centos-cheat-sheet/
+https://simplecheatsheet.com/tag/linux-cheat-sheet/     
 ## Nginx cheatsheet
 https://gist.github.com/carlessanagustin/9509d0d31414804da03b               
 https://virtubox.github.io/advanced-nginx-cheatsheet/          
