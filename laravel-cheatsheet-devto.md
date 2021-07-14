@@ -46,12 +46,12 @@ Schema::create('products', function (Blueprint $table) {
 $ php artisan make:migration add_comment_to_products_table
 
 // up()
-Schema::table('users', function (Blueprint $table) {
+Schema::table('products', function (Blueprint $table) {
     $table->text('comment');
 });
 
 // down()
-Schema::table('users', function (Blueprint $table) {
+Schema::table('products', function (Blueprint $table) {
     $table->dropColumn('comment');
 });
 ```
