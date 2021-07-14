@@ -37,7 +37,8 @@ https://simplecheatsheet.com/tag/linux-command-line-cheat-sheet/
 
 ## Nginx cheatsheet
 https://gist.github.com/carlessanagustin/9509d0d31414804da03b               
-https://virtubox.github.io/advanced-nginx-cheatsheet/          
+https://virtubox.github.io/advanced-nginx-cheatsheet/       
+https://simplecheatsheet.com/tag/nginx-cheat-sheet/  
 ## Jquery cheatsheet
 https://htmlcheatsheet.com/jquery/
 ## Ajax
@@ -66,4 +67,8 @@ https://simplecheatsheet.com/tag/crontab-cheat-sheet/
 
 ## Redis cheatsheet
 https://simplecheatsheet.com/tag/redis-cheat-sheet/
+## Axios cheatsheet
+https://simplecheatsheet.com/tag/axios-cheat-sheet/ 
+## VueX cheatsheet
+https://simplecheatsheet.com/tag/vuex-cheat-sheet/ 
 
