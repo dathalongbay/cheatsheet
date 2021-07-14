@@ -9,7 +9,8 @@ https://github.com/dathalongbay/cheatsheet/blob/main/laravel-cheatsheet-devto.md
 https://learninglaravel.net/cheatsheet/#
 ## laravel cheatsheet 
 https://simplecheatsheet.com/tag/laravel-cheat-sheet/      
-
+## CSS cheatsheet
+https://simplecheatsheet.com/tag/css-cheat-sheet/    
 ## Vuejs cheatsheet
 ## React cheatsheet
 ## Nodejs cheatsheet
