@@ -297,3 +297,82 @@ Route::fallback(function () {
 // Route Caching
 php artisan route:cache
 ```
+## Controllers
+```
+// Set validation rules 
+protected $rules = [
+    'title' => 'required|unique:posts|max:255',
+    'name' => 'required|min:6',
+    'email' => 'required|email',
+    'publish_at' => 'nullable|date',
+];
+
+// Validate
+$validatedData = $request->validate($rules)
+
+// Show 404 error page
+abort(404, 'Sorry, Post not found')
+
+// Controller CRUD exemple
+Class ProductsController
+{
+
+   public function index()
+   {
+       $products = Product::all();
+
+       // app/resources/views/products/index.blade.php
+       return view('products.index', ['products', $products]); 
+   }
+
+   public function create()
+   {
+       return view('products.create');
+   }
+
+   public function store()
+   {
+       Product::create(request()->validate([
+           'name' => 'required',
+           'price' => 'required',
+           'note' => 'nullable'
+       ]));
+
+       return redirect(route('products.index'));
+   }
+
+   //method with model injection
+   public function show(Product $product)
+   {
+       return view('products.show', ['product', $product]); 
+   }
+
+   public function edit(Product $product)
+   {
+       return view('products.edit', ['product', $product]); 
+   }
+
+   public function update(Product $product)
+   {
+       Product::update(request()->validate([
+           'name' => 'required',
+           'price' => 'required',
+           'note' => 'nullable'
+       ]));
+
+       return redirect(route($product->path()));
+   }
+
+   public function delete(Product $product)
+   {
+        $product->delete();
+        return redirect("/contacts");
+   }
+}
+
+// Query Params www.demo.html?name=mike
+request()->name //mike
+
+// Form data (or default value)
+request()->input('email', 'no@email.com')
+```
