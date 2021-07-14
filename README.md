@@ -92,7 +92,8 @@ https://simplecheatsheet.com/tag/apache-cheat-sheet/
 ## Laravel 
 https://codebriefly.com/category/laravel/laravel-code-snippet/page/3/    
 https://codebriefly.com/how-to-handle-content-scraping-in-laravel/     
-https://codebriefly.com/laravel-logging-guzzle-requests-file/             
+https://codebriefly.com/laravel-logging-guzzle-requests-file/   
+https://www.parthpatel.net/laravel-tutorial-for-beginner/   
 ## Hướng dẫn magento
 https://www.magetop.com/blog/cai-magento-2-4-tren-localhost-xampp/     
 https://www.youtube.com/watch?v=lVljbADx_mA     
@@ -101,4 +102,6 @@ https://vi-magento.com/category/lap-trinh-magento/
 https://vi-magento.com/danh-sach-magento-2/   
 http://blankapham.com/category/lap-trinh-web/magento-tutorial/   
 https://kungfuphp.com/magento/huong-dan-cai-dat-magento-2.html   
+## Laravel ajax todo
+https://www.parthpatel.net/laravel-ajax-crud-bootstrap-jquery/   
 
