@@ -19,7 +19,9 @@ https://websitesetup.org/mysql-cheat-sheet/
 ## Wordpress cheatsheet
 https://websitesetup.org/wordpress-cheat-sheet/
 ## Magento cheatsheet
+https://gist.github.com/JeansBolong/1557efe396732b8046f45524230c6e65
 ## Joomla cheatsheet
+https://www.joomlashack.com/blog/joomla/joomla-training-cheat-sheet/
 ## SQL cheatsheet
 https://websitesetup.org/sql-cheat-sheet/
 ## Elasticseatch cheatsheet
