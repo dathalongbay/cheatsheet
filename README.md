@@ -107,4 +107,14 @@ https://www.parthpatel.net/laravel-ajax-crud-bootstrap-jquery/
 ## Laravel where
 https://www.parthpatel.net/laravel-multiple-where-and-or-and-conditions-example/
 ## Laravel multi auth
-https://www.tutsmake.com/laravel-8-multi-auth-authentication-tutorial/    
+https://www.tutsmake.com/laravel-8-multi-auth-authentication-tutorial/ 
+## PHP Interview 
+https://www.tutsmake.com/php-logical-interview-questions-and-answers-for-1235-year-experience/
+https://www.tutsmake.com/javascript-es6-interview-question-and-answer/   
+https://www.tutsmake.com/mysql-interview-questions-and-answers/    
+
+## 5 mô hình phổ biến để cài đặt Server cho ứng dụng
+https://www.digistar.vn/5-mo-hinh-pho-bien-de-cai-dat-server-cho-ung-dung/
+## Debug 
+https://www.tma.vn/Hoi-dap/Cam-nang-nghe-nghiep/Ki-thuat-debug-trong-viec-phat-trien-he-thong-nhung/16776   
+
