@@ -106,3 +106,5 @@ https://kungfuphp.com/magento/huong-dan-cai-dat-magento-2.html
 https://www.parthpatel.net/laravel-ajax-crud-bootstrap-jquery/   
 ## Laravel where
 https://www.parthpatel.net/laravel-multiple-where-and-or-and-conditions-example/
+## Laravel multi auth
+https://www.tutsmake.com/laravel-8-multi-auth-authentication-tutorial/    
