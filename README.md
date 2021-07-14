@@ -8,7 +8,8 @@ https://github.com/dathalongbay/cheatsheet/blob/main/laravel-cheatsheet-devto.md
 ## laravel cheatsheet learninglaravel.net
 https://learninglaravel.net/cheatsheet/#
 ## laravel cheatsheet 
-https://simplecheatsheet.com/tag/laravel-cheat-sheet/      
+https://simplecheatsheet.com/tag/laravel-cheat-sheet/        
+https://simplecheatsheet.com/tag/laravel-5-cheat-sheet/#laravel-validation   
 ## CSS cheatsheet
 https://simplecheatsheet.com/tag/css-cheat-sheet/    
 ## Vuejs cheatsheet
@@ -77,3 +78,5 @@ https://simplecheatsheet.com/tag/vuex-cheat-sheet/
 ## MariaDB cheatsheet
 https://simplecheatsheet.com/tag/mariadb-cheat-sheet/
 
+## Apache cheatsheet
+https://simplecheatsheet.com/tag/apache-cheat-sheet/
