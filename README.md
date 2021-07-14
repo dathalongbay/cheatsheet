@@ -10,10 +10,12 @@ https://learninglaravel.net/cheatsheet/#
 ## laravel cheatsheet 
 https://simplecheatsheet.com/tag/laravel-cheat-sheet/        
 https://simplecheatsheet.com/tag/laravel-5-cheat-sheet/#laravel-validation   
+https://github.com/piotr-jura-udemy/laravel-cheat-sheet
 ## CSS cheatsheet
 https://simplecheatsheet.com/tag/css-cheat-sheet/    
 ## Vuejs cheatsheet
 ## React cheatsheet
+https://simplecheatsheet.com/tag/react-cheat-sheet/
 ## Nodejs cheatsheet
 ## Mysql cheatsheet
 https://devhints.io/mysql    
