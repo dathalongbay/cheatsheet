@@ -5,7 +5,8 @@ Học qua cheatsheet
 https://github.com/dathalongbay/cheatsheet/blob/main/github-setup.md
 ## webcoban 
 https://webcoban.vn/mysql/tai-lieu-hoc-mysql    
-
+## Output Laravel SQL query log
+https://viblo.asia/p/output-laravel-sql-query-log-4dbZN2VnZYM
 ## laravel cheatsheet dev.to
 https://github.com/dathalongbay/cheatsheet/blob/main/laravel-cheatsheet-devto.md
 ## laravel cheatsheet learninglaravel.net
