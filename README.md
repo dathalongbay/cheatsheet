@@ -54,6 +54,8 @@ https://simplecheatsheet.com/tag/mongodb-cheat-sheet/
 https://simplecheatsheet.com/tag/npm-cheat-sheet/   
 ## Docket cheatsheet 
 https://simplecheatsheet.com/tag/docker-cheat-sheet/    
+## Regex cheatsheet
+https://simplecheatsheet.com/tag/regex-cheat-sheet/     
 
 
 
