@@ -47,6 +47,9 @@ https://websitesetup.org/bootstrap-cheat-sheet/
 https://websitesetup.org/javascript-cheat-sheet/  
 # Micro services
 https://www.nginx.com/blog/building-microservices-using-an-api-gateway/   
+## Mongodb cheatsheet
+https://simplecheatsheet.com/tag/mongodb-cheat-sheet/          
+
 
 
 
