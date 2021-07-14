@@ -149,5 +149,17 @@ https://viblo.asia/p/su-dung-service-layer-va-repository-trong-laravel-bJzKmw4Dl
 https://dev.to/jsf00/implement-crud-with-laravel-service-repository-pattern-1dkl    
 ## Top package laravel 
 https://www.bacancytechnology.com/blog/top-10-laravel-packages-to-install-in-2020-part-1   
-
+https://laraadmin.com/features   
+https://www.cloudways.com/blog/best-laravel-packages/    
+https://viblo.asia/p/gioi-thieu-package-laravel-generator-Eb85oMRkZ2G   
+https://php-download.com/package/crestapps/laravel-code-generator   
+## Log query laravel 
+https://artisansweb.net/how-to-log-query-in-laravel/   
+## HD Nginx
+https://huongdan.azdigi.com/huong-dan-cai-dat-nginx-proxy-apache-2-4-6/   
+## Microservice Nginx
+https://www.nginx.com/blog/microservices-from-design-to-deployment-ebook-nginx/   
+https://medium.com/@poweredlocal/developing-a-simple-api-gateway-in-php-and-lumen-f84756cce043   
+## Học viên full
+https://www.youtube.com/channel/UCCkH-votwCOpd6FjCoQiWoA
 
