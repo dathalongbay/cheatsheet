@@ -32,6 +32,7 @@ https://websitesetup.org/sql-cheat-sheet/
 ## Centos Linux cheatsheet
 https://cheatography.com/bromono/cheat-sheets/centos-cheat-sheet/
 https://simplecheatsheet.com/tag/linux-cheat-sheet/     
+https://simplecheatsheet.com/tag/centos-cheat-sheet/    
 ## Nginx cheatsheet
 https://gist.github.com/carlessanagustin/9509d0d31414804da03b               
 https://virtubox.github.io/advanced-nginx-cheatsheet/          
