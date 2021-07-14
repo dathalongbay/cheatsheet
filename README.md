@@ -23,4 +23,7 @@ https://websitesetup.org/mysql-cheat-sheet/
 ## Elasticseatch cheatsheet
 ## Centos cheatsheet
 https://cheatography.com/bromono/cheat-sheets/centos-cheat-sheet/
+## Nginx cheatsheet
+https://gist.github.com/carlessanagustin/9509d0d31414804da03b               
+https://virtubox.github.io/advanced-nginx-cheatsheet/          
 
